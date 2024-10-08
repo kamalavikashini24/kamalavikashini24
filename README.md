@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamalavikashini Balasubramaniyan</h1>
+<h1 align="center">Hi 👋, I'm Kamalavikashini Balasubramanian</h1>
 <h3 align="center">Software Development Engineer at Bosch Siemens Household Appliances | Teamcenter Developer | MES IT Business Consultant | UI/UX Designer | Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalavikashini24&label=Profile%20views&color=0e75b6&style=flat" alt="kamalavikashini24" /> </p>
